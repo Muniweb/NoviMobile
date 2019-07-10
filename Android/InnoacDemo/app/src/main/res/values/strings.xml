@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">City of Novi</string>
+    <string name="evnt_regis">Parks &amp; Rec Registration </string>
+    <string name="pay_bill">Pay Utility Bills/Taxes</string>
+    <string name="job_opportunity">Job Opportunities</string>
+    <string name="report_an_pathole">Report a Pothole</string>
+    <string name="police">Submit a Police Report</string>
+    <string name="street_light">Report Streetlight Outage</string>
+    <string name="calender">Calendar</string>
+    <string name="report_an_issue">Report An Issue</string>
+    <string name="development_projects">Development Projects In Process</string>
+    <string name="road_construction">Construction Updates</string>
+    <string name="city_directory">Connect With City Hall</string>
+    <string name="city_website">Visit City Website</string>
+
+
+    <string name="search">Search</string>
+    <string name="recreation">Recreation</string>
+    <string name="facebook">Facebook</string>
+    <string name="staff_directory">Staff Directory</string>
+    <string name="studio">Studio NoVI</string>
+    <string name="report">Report a Concern</string>
+    <string name="park">Parks by Amennity</string>
+    <string name="home">Home Watch</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <array name="filter">
+
+
+        <item name="Art"></item>
+        <item name="Ball Fields"></item>
+        <item name="Barbeque"></item>
+        <item name="Basketball"></item>
+        <item name="Concessions"></item>
+        <item name="Fishing"></item>
+        <item name="Nature Trails"></item>
+        <item name="Open Green Space"></item>
+        <item name="Paved Trail"></item>
+        <item name="Picnic Shelter"></item>
+        <item name="Playground"></item>
+        <item name="Restrooms"></item>
+        <item name="Soccer"></item>
+        <item name="Tennis"></item>
+        <item name="Theatre"></item>
+        <item name="WiFi"></item>
+
+
+        <!--<item name="Double Gate Entry"></item>-->
+        <!--<item name="Key Fob Entry System"></item>-->
+        <!--<item name="Small/Timid Dog Area"></item>-->
+        <!--<item name="Benches"></item>-->
+        <!--<item name="Dog and Human Drinking Fountain"></item>-->
+        <!--<item name="Dog Waste Stations"></item>-->
+
+
+    </array>
+
+
+</resources>

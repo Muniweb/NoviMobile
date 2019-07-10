@@ -1,0 +1,127 @@
+{
+  "data": {
+    "amenities": {
+      "Art": [
+        "Fuerst Park -https://www.google.com/maps/place/45325+W+10+Mile+Rd,+Novi,+MI+48375/@42.4652335,-83.4955932,17z/data=!3m1!4b1!4m5!3m4!1s0x8824aec77727b847:0xc863f9d7c921342a!8m2!3d42.4652296!4d-83.4934045",
+        "ITC Community Sports Park -https://www.google.com/maps/place/51000+Eight+Mile+Rd,+Northville,+MI+48167/@42.4390298,-83.5517522,17z/data=!3m1!4b1!4m5!3m4!1s0x8824abd2b2c79da3:0xd522e5846412e7d!8m2!3d42.4390259!4d-83.5495635",
+        "Pavilion Shore Park -https://www.google.com/maps/place/43390+W+13+Mile+Rd,+Novi,+MI+48377/@42.5108033,-83.4783277,17z/data=!3m1!4b1!4m5!3m4!1s0x8824af6fcaab0833:0x2dbf62bbc3be0b1d!8m2!3d42.5107994!4d-83.476139",
+        "Villa Barr -https://www.google.com/maps/place/22600+Napier+Rd,+Novi,+MI+48374/@42.4521103,-83.5544051,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a9819e8ac20f:0x8ffe7c52a3606fa5!8m2!3d42.4521103!4d-83.5522164"
+      ],
+      "Ball Fields": [
+        "Ella Mae Power Park -https://www.google.com/maps/place/45175+W+10+Mile+Rd,+Novi,+MI+48375/@42.4654269,-83.4894632,17z/data=!3m1!4b1!4m5!3m4!1s0x8824aec03ff5f6b1:0xb88dcd70bcab52a!8m2!3d42.465423!4d-83.4872745",
+        "ITC Community Sports Park -https://www.google.com/maps/place/51000+Eight+Mile+Rd,+Northville,+MI+48167/@42.4390298,-83.5517522,17z/data=!3m1!4b1!4m5!3m4!1s0x8824abd2b2c79da3:0xd522e5846412e7d!8m2!3d42.4390259!4d-83.5495635",
+        "Wildlife Woods Park -https://www.google.com/maps/place/26442+Wixom+Rd,+Novi,+MI+48374/@42.485775,-83.5372881,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a91d929ef9a3:0xc5ef439fabb63ed4!8m2!3d42.4857711!4d-83.5350994"
+      ],
+      "Barbeque": [
+        "Rotary Park -https://www.google.com/maps/place/22220+Roethel+Dr,+Novi,+MI+48375/@42.4494267,-83.4685236,17z/data=!3m1!4b1!4m5!3m4!1s0x8824ae873d4dd795:0x67043a62c333296e!8m2!3d42.4494228!4d-83.4663349",
+        "ITC Community Sports Park -https://www.google.com/maps/place/51000+Eight+Mile+Rd,+Northville,+MI+48167/@42.4390298,-83.5517522,17z/data=!3m1!4b1!4m5!3m4!1s0x8824abd2b2c79da3:0xd522e5846412e7d!8m2!3d42.4390259!4d-83.5495635",
+        "Wildlife Woods Park -https://www.google.com/maps/place/26442+Wixom+Rd,+Novi,+MI+48374/@42.485775,-83.5372881,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a91d929ef9a3:0xc5ef439fabb63ed4!8m2!3d42.4857711!4d-83.5350994"
+      ],
+      "Basketball": [
+        "ITC Community Sports Park -https://www.google.com/maps/place/51000+Eight+Mile+Rd,+Northville,+MI+48167/@42.4390298,-83.5517522,17z/data=!3m1!4b1!4m5!3m4!1s0x8824abd2b2c79da3:0xd522e5846412e7d!8m2!3d42.4390259!4d-83.5495635",
+        "Wildlife Woods Park -https://www.google.com/maps/place/26442+Wixom+Rd,+Novi,+MI+48374/@42.485775,-83.5372881,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a91d929ef9a3:0xc5ef439fabb63ed4!8m2!3d42.4857711!4d-83.5350994"
+      ],
+      "Concessions": [
+        "Ella Mae Power Park -https://www.google.com/maps/place/45175+W+10+Mile+Rd,+Novi,+MI+48375/@42.4654269,-83.4894632,17z/data=!3m1!4b1!4m5!3m4!1s0x8824aec03ff5f6b1:0xb88dcd70bcab52a!8m2!3d42.465423!4d-83.4872745",
+        "ITC Community Sports Park -https://www.google.com/maps/place/51000+Eight+Mile+Rd,+Northville,+MI+48167/@42.4390298,-83.5517522,17z/data=!3m1!4b1!4m5!3m4!1s0x8824abd2b2c79da3:0xd522e5846412e7d!8m2!3d42.4390259!4d-83.5495635"
+      ],
+      "Fishing": [
+        "Pavilion Shore Park -https://www.google.com/maps/place/43390+W+13+Mile+Rd,+Novi,+MI+48377/@42.5108033,-83.4783277,17z/data=!3m1!4b1!4m5!3m4!1s0x8824af6fcaab0833:0x2dbf62bbc3be0b1d!8m2!3d42.5107994!4d-83.476139"
+      ],
+      "Nature Trails": [
+        "Ella Mae Power Park -https://www.google.com/maps/place/45175+W+10+Mile+Rd,+Novi,+MI+48375/@42.4654269,-83.4894632,17z/data=!3m1!4b1!4m5!3m4!1s0x8824aec03ff5f6b1:0xb88dcd70bcab52a!8m2!3d42.465423!4d-83.4872745",
+        "ITC Trailhead Park -https://www.google.com/maps/place/22475+Garfield+Rd,+Northville,+MI+48167/@42.4518438,-83.5360439,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a9618d501fff:0x65a580371fba7456!8m2!3d42.4518438!4d-83.5338552",
+        "Lakeshore Park -https://www.google.com/maps/place/601+S+Lake+Dr,+Novi,+MI+48377/@42.5114178,-83.4852673,17z/data=!3m1!4b1!4m5!3m4!1s0x8824af68f5c09e49:0x11471c8ae9c25343!8m2!3d42.5114139!4d-83.4830786",
+        "Novi Northwest Park -https://www.google.com/maps/place/50635+Twelve+Mile+Rd,+Novi,+MI+48374/@42.4933926,-83.5506244,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a8f8eb01a31b:0xec42a0c08cfb5b54!8m2!3d42.4933926!4d-83.5484357",
+        "Rotary Park -https://www.google.com/maps/place/22220+Roethel+Dr,+Novi,+MI+48375/@42.4494267,-83.4685236,17z/data=!3m1!4b1!4m5!3m4!1s0x8824ae873d4dd795:0x67043a62c333296e!8m2!3d42.4494228!4d-83.4663349",
+        "Village Wood Lake Park -https://www.google.com/maps/place/40944+Village+Wood+Rd,+Novi,+MI+48375/@42.4599328,-83.4523722,17z/data=!3m1!4b1!4m5!3m4!1s0x8824ae698e193779:0xdc71d82b0006cc6e!8m2!3d42.4599289!4d-83.4501835",
+        "Villa Barr -https://www.google.com/maps/place/22600+Napier+Rd,+Novi,+MI+48374/@42.4521103,-83.5544051,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a9819e8ac20f:0x8ffe7c52a3606fa5!8m2!3d42.4521103!4d-83.5522164"
+      ],
+      "Open Green Space": [
+        "Bosco Fields -https://www.google.com/maps/place/47481+W+11+Mile+Rd,+Novi,+MI+48374/@42.4797692,-83.5180639,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a92f3037d885:0x98c978c2ecb43d12!8m2!3d42.4797692!4d-83.5158752",
+        "Brookfarm Park -https://www.google.com/maps/place/23585+Willowbrook+Dr,+Novi,+MI+48375/@42.462611,-83.4474086,17z/data=!3m1!4b1!4m5!3m4!1s0x8824ae4030fdb0fb:0x99bc93566ae75061!8m2!3d42.462611!4d-83.4452199",
+        "Ella Mae Power Park -https://www.google.com/maps/place/45175+W+10+Mile+Rd,+Novi,+MI+48375/@42.4654269,-83.4894632,17z/data=!3m1!4b1!4m5!3m4!1s0x8824aec03ff5f6b1:0xb88dcd70bcab52a!8m2!3d42.465423!4d-83.4872745",
+        "Fuerst Park -https://www.google.com/maps/place/45325+W+10+Mile+Rd,+Novi,+MI+48375/@42.4652335,-83.4955932,17z/data=!3m1!4b1!4m5!3m4!1s0x8824aec77727b847:0xc863f9d7c921342a!8m2!3d42.4652296!4d-83.4934045",
+        "ITC Community Sports Park -https://www.google.com/maps/place/51000+Eight+Mile+Rd,+Northville,+MI+48167/@42.4390298,-83.5517522,17z/data=!3m1!4b1!4m5!3m4!1s0x8824abd2b2c79da3:0xd522e5846412e7d!8m2!3d42.4390259!4d-83.5495635",
+        "ITC Trailhead Park -https://www.google.com/maps/place/22475+Garfield+Rd,+Northville,+MI+48167/@42.4518438,-83.5360439,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a9618d501fff:0x65a580371fba7456!8m2!3d42.4518438!4d-83.5338552",
+        "Novi Northwest Park -https://www.google.com/maps/place/50635+Twelve+Mile+Rd,+Novi,+MI+48374/@42.4933926,-83.5506244,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a8f8eb01a31b:0xec42a0c08cfb5b54!8m2!3d42.4933926!4d-83.5484357",
+        "Pavilion Shore Park -https://www.google.com/maps/place/43390+W+13+Mile+Rd,+Novi,+MI+48377/@42.5108033,-83.4783277,17z/data=!3m1!4b1!4m5!3m4!1s0x8824af6fcaab0833:0x2dbf62bbc3be0b1d!8m2!3d42.5107994!4d-83.476139",
+        "Rotary Park -https://www.google.com/maps/place/22220+Roethel+Dr,+Novi,+MI+48375/@42.4494267,-83.4685236,17z/data=!3m1!4b1!4m5!3m4!1s0x8824ae873d4dd795:0x67043a62c333296e!8m2!3d42.4494228!4d-83.4663349",
+        "Village Wood Lake Park -https://www.google.com/maps/place/40944+Village+Wood+Rd,+Novi,+MI+48375/@42.4599328,-83.4523722,17z/data=!3m1!4b1!4m5!3m4!1s0x8824ae698e193779:0xdc71d82b0006cc6e!8m2!3d42.4599289!4d-83.4501835",
+        "Wildlife Woods Park -https://www.google.com/maps/place/26442+Wixom+Rd,+Novi,+MI+48374/@42.485775,-83.5372881,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a91d929ef9a3:0xc5ef439fabb63ed4!8m2!3d42.4857711!4d-83.5350994"
+      ],
+      "Paved Trail": [
+        "Brookfarm Park -https://www.google.com/maps/place/23585+Willowbrook+Dr,+Novi,+MI+48375/@42.462611,-83.4474086,17z/data=!3m1!4b1!4m5!3m4!1s0x8824ae4030fdb0fb:0x99bc93566ae75061!8m2!3d42.462611!4d-83.4452199",
+        "Fuerst Park -https://www.google.com/maps/place/45325+W+10+Mile+Rd,+Novi,+MI+48375/@42.4652335,-83.4955932,17z/data=!3m1!4b1!4m5!3m4!1s0x8824aec77727b847:0xc863f9d7c921342a!8m2!3d42.4652296!4d-83.4934045",
+        "ITC Community Sports Park -https://www.google.com/maps/place/51000+Eight+Mile+Rd,+Northville,+MI+48167/@42.4390298,-83.5517522,17z/data=!3m1!4b1!4m5!3m4!1s0x8824abd2b2c79da3:0xd522e5846412e7d!8m2!3d42.4390259!4d-83.5495635",
+        "ITC Trailhead Park -https://www.google.com/maps/place/22475+Garfield+Rd,+Northville,+MI+48167/@42.4518438,-83.5360439,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a9618d501fff:0x65a580371fba7456!8m2!3d42.4518438!4d-83.5338552",
+        "Pavilion Shore Park -https://www.google.com/maps/place/43390+W+13+Mile+Rd,+Novi,+MI+48377/@42.5108033,-83.4783277,17z/data=!3m1!4b1!4m5!3m4!1s0x8824af6fcaab0833:0x2dbf62bbc3be0b1d!8m2!3d42.5107994!4d-83.476139"
+      ],
+      "Picnic Shelter": [
+        "ITC Community Sports Park -https://www.google.com/maps/place/51000+Eight+Mile+Rd,+Northville,+MI+48167/@42.4390298,-83.5517522,17z/data=!3m1!4b1!4m5!3m4!1s0x8824abd2b2c79da3:0xd522e5846412e7d!8m2!3d42.4390259!4d-83.5495635",
+        "Rotary Park -https://www.google.com/maps/place/22220+Roethel+Dr,+Novi,+MI+48375/@42.4494267,-83.4685236,17z/data=!3m1!4b1!4m5!3m4!1s0x8824ae873d4dd795:0x67043a62c333296e!8m2!3d42.4494228!4d-83.4663349",
+        "Wildlife Woods Park -https://www.google.com/maps/place/26442+Wixom+Rd,+Novi,+MI+48374/@42.485775,-83.5372881,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a91d929ef9a3:0xc5ef439fabb63ed4!8m2!3d42.4857711!4d-83.5350994"
+      ],
+      "Playground": [
+        "Ella Mae Power Park -https://www.google.com/maps/place/45175+W+10+Mile+Rd,+Novi,+MI+48375/@42.4654269,-83.4894632,17z/data=!3m1!4b1!4m5!3m4!1s0x8824aec03ff5f6b1:0xb88dcd70bcab52a!8m2!3d42.465423!4d-83.4872745",
+        "ITC Community Sports Park -https://www.google.com/maps/place/51000+Eight+Mile+Rd,+Northville,+MI+48167/@42.4390298,-83.5517522,17z/data=!3m1!4b1!4m5!3m4!1s0x8824abd2b2c79da3:0xd522e5846412e7d!8m2!3d42.4390259!4d-83.5495635",
+        "Rotary Park -https://www.google.com/maps/place/22220+Roethel+Dr,+Novi,+MI+48375/@42.4494267,-83.4685236,17z/data=!3m1!4b1!4m5!3m4!1s0x8824ae873d4dd795:0x67043a62c333296e!8m2!3d42.4494228!4d-83.4663349",
+        "Pavilion Shore Park -https://www.google.com/maps/place/43390+W+13+Mile+Rd,+Novi,+MI+48377/@42.5108033,-83.4783277,17z/data=!3m1!4b1!4m5!3m4!1s0x8824af6fcaab0833:0x2dbf62bbc3be0b1d!8m2!3d42.5107994!4d-83.476139"
+      ],
+      "Restrooms": [
+        "Bosco Fields -https://www.google.com/maps/place/47481+W+11+Mile+Rd,+Novi,+MI+48374/@42.4797692,-83.5180639,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a92f3037d885:0x98c978c2ecb43d12!8m2!3d42.4797692!4d-83.5158752",
+        "Civic Center -https://www.google.com/maps/place/45175+W+10+Mile+Rd,+Novi,+MI+48375/@42.4654269,-83.4894632,17z/data=!3m1!4b1!4m5!3m4!1s0x8824aec03ff5f6b1:0xb88dcd70bcab52a!8m2!3d42.465423!4d-83.4872745",
+        "Ella Mae Power Park -https://www.google.com/maps/place/45175+W+10+Mile+Rd,+Novi,+MI+48375/@42.4654269,-83.4894632,17z/data=!3m1!4b1!4m5!3m4!1s0x8824aec03ff5f6b1:0xb88dcd70bcab52a!8m2!3d42.465423!4d-83.4872745",
+        "Fuerst Park -https://www.google.com/maps/place/45325+W+10+Mile+Rd,+Novi,+MI+48375/@42.4652335,-83.4955932,17z/data=!3m1!4b1!4m5!3m4!1s0x8824aec77727b847:0xc863f9d7c921342a!8m2!3d42.4652296!4d-83.4934045",
+        "ITC Community Sports Park -https://www.google.com/maps/place/51000+Eight+Mile+Rd,+Northville,+MI+48167/@42.4390298,-83.5517522,17z/data=!3m1!4b1!4m5!3m4!1s0x8824abd2b2c79da3:0xd522e5846412e7d!8m2!3d42.4390259!4d-83.5495635",
+        "Lakeshore Park -https://www.google.com/maps/place/601+S+Lake+Dr,+Novi,+MI+48377/@42.5114178,-83.4852673,17z/data=!3m1!4b1!4m5!3m4!1s0x8824af68f5c09e49:0x11471c8ae9c25343!8m2!3d42.5114139!4d-83.4830786",
+        "Pavilion Shore Park -https://www.google.com/maps/place/43390+W+13+Mile+Rd,+Novi,+MI+48377/@42.5108033,-83.4783277,17z/data=!3m1!4b1!4m5!3m4!1s0x8824af6fcaab0833:0x2dbf62bbc3be0b1d!8m2!3d42.5107994!4d-83.476139",
+        "Rotary Park -https://www.google.com/maps/place/22220+Roethel+Dr,+Novi,+MI+48375/@42.4494267,-83.4685236,17z/data=!3m1!4b1!4m5!3m4!1s0x8824ae873d4dd795:0x67043a62c333296e!8m2!3d42.4494228!4d-83.4663349",
+        "Wildlife Woods Park -https://www.google.com/maps/place/26442+Wixom+Rd,+Novi,+MI+48374/@42.485775,-83.5372881,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a91d929ef9a3:0xc5ef439fabb63ed4!8m2!3d42.4857711!4d-83.5350994"
+      ],
+      "Soccer": [
+        "Bosco Fields -https://www.google.com/maps/place/47481+W+11+Mile+Rd,+Novi,+MI+48374/@42.4797692,-83.5180639,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a92f3037d885:0x98c978c2ecb43d12!8m2!3d42.4797692!4d-83.5158752",
+        "Brookfarm Park -https://www.google.com/maps/place/23585+Willowbrook+Dr,+Novi,+MI+48375/@42.462611,-83.4474086,17z/data=!3m1!4b1!4m5!3m4!1s0x8824ae4030fdb0fb:0x99bc93566ae75061!8m2!3d42.462611!4d-83.4452199",
+        "ITC Community Sports Park -https://www.google.com/maps/place/51000+Eight+Mile+Rd,+Northville,+MI+48167/@42.4390298,-83.5517522,17z/data=!3m1!4b1!4m5!3m4!1s0x8824abd2b2c79da3:0xd522e5846412e7d!8m2!3d42.4390259!4d-83.5495635",
+        "Wildlife Woods Park -https://www.google.com/maps/place/26442+Wixom+Rd,+Novi,+MI+48374/@42.485775,-83.5372881,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a91d929ef9a3:0xc5ef439fabb63ed4!8m2!3d42.4857711!4d-83.5350994"
+      ],
+      "Tennis": [
+        "ITC Community Sports Park -https://www.google.com/maps/place/51000+Eight+Mile+Rd,+Northville,+MI+48167/@42.4390298,-83.5517522,17z/data=!3m1!4b1!4m5!3m4!1s0x8824abd2b2c79da3:0xd522e5846412e7d!8m2!3d42.4390259!4d-83.5495635",
+        "Rotary Park -https://www.google.com/maps/place/22220+Roethel+Dr,+Novi,+MI+48375/@42.4494267,-83.4685236,17z/data=!3m1!4b1!4m5!3m4!1s0x8824ae873d4dd795:0x67043a62c333296e!8m2!3d42.4494228!4d-83.4663349",
+        "Wildlife Woods Park -https://www.google.com/maps/place/26442+Wixom+Rd,+Novi,+MI+48374/@42.485775,-83.5372881,17z/data=!3m1!4b1!4m5!3m4!1s0x8824a91d929ef9a3:0xc5ef439fabb63ed4!8m2!3d42.4857711!4d-83.5350994"
+      ],
+      "Theatre": [
+        "Civic Center -https://www.google.com/maps/place/45175+W+10+Mile+Rd,+Novi,+MI+48375/@42.4654269,-83.4894632,17z/data=!3m1!4b1!4m5!3m4!1s0x8824aec03ff5f6b1:0xb88dcd70bcab52a!8m2!3d42.465423!4d-83.4872745",
+        "Fuerst Park -https://www.google.com/maps/place/45325+W+10+Mile+Rd,+Novi,+MI+48375/@42.4652335,-83.4955932,17z/data=!3m1!4b1!4m5!3m4!1s0x8824aec77727b847:0xc863f9d7c921342a!8m2!3d42.4652296!4d-83.4934045"
+      ],
+      "WiFi": [
+        "Civic Center -https://www.google.com/maps/place/45175+W+10+Mile+Rd,+Novi,+MI+48375/@42.4654269,-83.4894632,17z/data=!3m1!4b1!4m5!3m4!1s0x8824aec03ff5f6b1:0xb88dcd70bcab52a!8m2!3d42.465423!4d-83.4872745",
+        "Fuerst Park -https://www.google.com/maps/place/45325+W+10+Mile+Rd,+Novi,+MI+48375/@42.4652335,-83.4955932,17z/data=!3m1!4b1!4m5!3m4!1s0x8824aec77727b847:0xc863f9d7c921342a!8m2!3d42.4652296!4d-83.4934045"
+      ],
+      "none":[
+        "Novi Dog Park(Members Only) -https://www.google.com/maps/place/Novi+Dog+Park,+42390+Nick+Lidstrom+Dr,+Novi,+MI+48375/@42.4602015,-83.4694084,17z/data=!3m1!4b1!4m5!3m4!1s0x8824ae8bac722ac1:0xe4b4ba16dbf323c0!8m2!3d42.4602385!4d-83.467356"
+      ]
+
+
+
+      //      "Double Gate Entry": [
+      //        "Novi Dog Park"
+      //      ],
+      //      "Key Fob Entry System ": [
+      //        "Novi Dog Park"
+      //      ],
+      //      "Small/Timid Dog Area": [
+      //        "Novi Dog Park"
+      //      ],
+      //      "Benches": [
+      //        "Novi Dog Park"
+      //      ],
+      //      "Dog and Human Drinking Fountain": [
+      //        "Novi Dog Park"
+      //      ],
+      //      "Dog Waste Stations": [
+      //        "Novi Dog Park"
+      //      ],
+    }
+  }
+}

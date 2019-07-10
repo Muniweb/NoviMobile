@@ -1,0 +1,350 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorAccent"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:weightSum="4">
+
+            <TextView
+                android:id="@+id/button1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/construction_update"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/road_construction"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/button8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/job_opportunities"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/job_opportunity"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/button11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/recreation"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/recreation"
+                android:textColor="@android:color/white" />
+
+
+            <TextView
+                android:id="@+id/button6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/payutility_bills"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/pay_bill"
+                android:textColor="@android:color/white" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:weightSum="4">
+
+            <TextView
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/parks_registrati"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/evnt_regis"
+                android:textColor="@android:color/white" />
+
+
+            <TextView
+                android:id="@+id/button4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/visitcity_website"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/city_website"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/button12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/facebook"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/facebook"
+                android:textColor="@android:color/white" />
+
+
+            <TextView
+                android:id="@+id/button7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/connect_cityhall"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/city_directory"
+                android:textColor="@android:color/white" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:weightSum="4">
+
+            <TextView
+                android:id="@+id/button10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/search"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/search"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/button9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/report_anissue"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/report_an_issue"
+                android:textColor="@android:color/white"
+                android:visibility="gone"/>
+
+            <TextView
+                android:id="@+id/button3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/dev_projects"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/development_projects"
+                android:textColor="@android:color/white" />
+
+
+            <TextView
+                android:id="@+id/button13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/staff_directory"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/staff_directory"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/button5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/calendar"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/calender"
+                android:textColor="@android:color/white" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:weightSum="4">
+
+
+
+            <TextView
+                android:id="@+id/button14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/studiono"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/studio"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/button15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/report_oncern"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/report"
+                android:textColor="@android:color/white"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/button16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/park"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/park"
+                android:textColor="@android:color/white"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/button18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/home_watch"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/home"
+                android:visibility="invisible"
+                android:textColor="@android:color/white"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:weightSum="4"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/button20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/home_watch"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/home"
+                android:textColor="@android:color/white"/>
+
+            <TextView
+                android:id="@+id/button17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/search"
+                android:textColor="@android:color/white"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:id="@+id/button120"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/search"
+                android:textColor="@android:color/white"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:id="@+id/button19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:visibility="invisible"
+                android:paddingBottom="5dp"
+                android:paddingTop="8dp"
+                android:text="@string/search"
+                android:textColor="@android:color/white" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

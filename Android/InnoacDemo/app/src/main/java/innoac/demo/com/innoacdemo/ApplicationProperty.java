@@ -24,5 +24,5 @@ public class ApplicationProperty {
     public static final String STAFF_DIRECTORY = "http://cityofnovi.org/Reference/City-Directory.aspx#StaffAlpha";
     public static final String Video = "http://psevents.net/002/00328/NoviPlayerFullUI/iplay.asp";
 
-
+    public static final String WEB_VIEW_URL = "WEB_VIEW_URL";
 }

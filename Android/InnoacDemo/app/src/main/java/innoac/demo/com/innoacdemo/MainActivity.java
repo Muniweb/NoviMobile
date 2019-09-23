@@ -16,40 +16,20 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.telephony.TelephonyManager;
 import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
-import android.widget.LinearLayout;
-import android.widget.Toast;
 
 import com.estimotelib.EstimoLibUtil;
 import com.estimotelib.EstimoNotificationsManager;
 import com.estimotelib.OnBeaconMessageListener;
 import com.karumi.dexter.Dexter;
-import com.karumi.dexter.MultiplePermissionsReport;
 import com.karumi.dexter.PermissionToken;
-import com.karumi.dexter.listener.DexterError;
 import com.karumi.dexter.listener.PermissionDeniedResponse;
 import com.karumi.dexter.listener.PermissionGrantedResponse;
 import com.karumi.dexter.listener.PermissionRequest;
-import com.karumi.dexter.listener.PermissionRequestErrorListener;
-import com.karumi.dexter.listener.multi.MultiplePermissionsListener;
 import com.karumi.dexter.listener.single.PermissionListener;
 
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.List;
-
-import innoac.demo.com.innoacdemo.receiver.ActionButtonReceiver;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -221,7 +201,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void initBeacon() {
         util = new EstimoLibUtil(appId,appToken,this);
-        util.startMonitoring(this,MainActivity.class, ActionButtonReceiver.class,false
+        util.startMonitoring(this,MainActivity.class,false
                 ,getResources().getString(R.string.app_name));
     }
 
@@ -260,7 +240,7 @@ public class MainActivity extends AppCompatActivity {
         }
         String deviceid = mTelephonyManager.getDeviceId();
         mNm.getAppNameIMEINumber(deviceid);
-        mNm.sendAddUserRequest("",getResources().getString(R.string.app_name));
+        mNm.sendAddUserRequest(this,"",getResources().getString(R.string.app_name));
         Log.e("DASHBOARD", "DeviceImei " + deviceid);
     }
 

@@ -20,7 +20,6 @@ import android.view.View;
 
 import com.estimotelib.EstimoLibUtil;
 import com.estimotelib.EstimoNotificationsManager;
-import com.estimotelib.OnBeaconMessageListener;
 import com.karumi.dexter.Dexter;
 import com.karumi.dexter.PermissionToken;
 import com.karumi.dexter.listener.PermissionDeniedResponse;
@@ -39,8 +38,6 @@ public class MainActivity extends AppCompatActivity {
     final String appId = "myrealestategenie-eqn";
     final String appToken = "5e33390906dc0ef9a593fa7abc66119b";
     EstimoLibUtil util;
-
-    OnBeaconMessageListener mBeaconMessageListener;
 
     public EstimoNotificationsManager mNm;
 
@@ -304,17 +301,5 @@ public class MainActivity extends AppCompatActivity {
     public void onStop() {
         super.onStop();
         LocalBroadcastManager.getInstance(mContext).unregisterReceiver(receiver);
-    }
-
-    @Override
-    protected void onResume() {
-        super.onResume();
-        util.setBeaconMessageListener(mBeaconMessageListener);
-    }
-
-    @Override
-    protected void onPause() {
-        super.onPause();
-        util.removeBeaconMessageListener();
     }
 }
